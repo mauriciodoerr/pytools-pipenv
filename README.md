@@ -1,6 +1,8 @@
 # pytools-pipenv
 [![Build Status](https://app.travis-ci.com/mauriciodoerr/pytools-pipenv.svg?branch=main)](https://app.travis-ci.com/mauriciodoerr/pytools-pipenv)
 [![codecov](https://codecov.io/gh/mauriciodoerr/pytools-pipenv/branch/main/graph/badge.svg?token=XO14YR0VF0)](https://codecov.io/gh/mauriciodoerr/pytools-pipenv)
+[![Updates](https://pyup.io/repos/github/mauriciodoerr/pytools-pipenv/shield.svg)](https://pyup.io/repos/github/mauriciodoerr/pytools-pipenv/)
+[![Python 3](https://pyup.io/repos/github/mauriciodoerr/pytools-pipenv/python-3-shield.svg)](https://pyup.io/repos/github/mauriciodoerr/pytools-pipenv/)
 
 Upgrade original project [GitHub Repo](https://github.com/mauriciodoerr/pytools) from pip + venv to pipenv
 
