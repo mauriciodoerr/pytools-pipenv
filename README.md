@@ -32,3 +32,17 @@ source .zprofile
 echo $PIPENV_VENV_IN_PROJECT
 ```
 The output should be 1
+
+#### Installing PipEnv including lib requests
+```console
+pipenv install requests
+```
+
+#### Install Dev Dependencies
+```console
+pipenv install -d flake8 pytest coverage pytest-cov pytest-mock
+```
+Check if everything is ok by executing flake8 from pipenv
+```console
+pipenv run flake8
+```
