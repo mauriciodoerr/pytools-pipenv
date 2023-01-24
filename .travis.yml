@@ -6,6 +6,6 @@ install:
   - pipenv sync --dev
 script:
   - flake8
-  - pipenv run pytest libhttprequests --cov=libhttprequests
+  - pytest libhttprequests --cov=libhttprequests
 after_success:
   - codecov
